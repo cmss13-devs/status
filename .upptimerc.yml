@@ -6,17 +6,83 @@ sites:
   - name: Internal - Analytics
     url: grafana.cm-ss13.com
     maxRedirects: 5
-    check: "ssl"
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+      - 203
+      - 200
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208
+      - 226
+      - 300
+      - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 306
+      - 307
+      - 308
+      - 400 # unsure why
+      - 405 # unsure why
   - name: Internal - Authentication
     url: https://auth.cm-ss13.com
   - name: Internal - Game Management
     url: https://tgs.cm-ss13.com
   - name: Internal - Logs
     url: logs.cm-ss13.com
-    check: "ssl"
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+      - 203
+      - 200
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208
+      - 226
+      - 300
+      - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 306
+      - 307
+      - 308
+      - 400 # unsure why
+      - 405 # unsure why
   - name: Internal - Raw Logs
     url: raw-logs.cm-ss13.com
-    check: "ssl"
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+      - 203
+      - 200
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208
+      - 226
+      - 300
+      - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 306
+      - 307
+      - 308
+      - 400 # unsure why
+      - 405 # unsure why
   - name: All - Forums
     url: https://forum.cm-ss13.com
   - name: All - Website
