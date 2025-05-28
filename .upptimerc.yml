@@ -4,17 +4,18 @@ repo: status # The name of this repository
 
 sites:
   - name: Internal - Analytics
-    url: https://grafana.cm-ss13.com
+    url: grafana.cm-ss13.com
     maxRedirects: 5
+    check: "ssl"
   - name: Internal - Authentication
     url: https://auth.cm-ss13.com
   - name: Internal - Game Management
     url: https://tgs.cm-ss13.com
   - name: Internal - Logs
-    url: https://logs.cm-ss13.com
+    url: logs.cm-ss13.com
     check: "ssl"
   - name: Internal - Raw Logs
-    url: https://raw-logs.cm-ss13.com
+    url: raw-logs.cm-ss13.com
     check: "ssl"
   - name: All - Forums
     url: https://forum.cm-ss13.com
