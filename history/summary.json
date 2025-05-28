@@ -78,18 +78,20 @@
     "url": "https://raw-logs.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/raw-logs.cm-ss13.com.ico",
     "slug": "internal-raw-logs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 327,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 337,
+    "timeDay": 337,
+    "timeWeek": 337,
+    "timeMonth": 337,
+    "timeYear": 337,
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   },
   {
     "name": "All - Forums",
