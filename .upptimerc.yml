@@ -127,8 +127,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cm-ss13.com
   # baseUrl: /your-repo-name
-  logoUrl: hhttps://cm-ss13.com/assets/logo.png
+  logoUrl: https://cm-ss13.com/assets/logo.png
   name: CM-SS13 Status
+  theme: night
   navbar:
     - title: Main Page
       href: https://cm-ss13.com/
@@ -137,7 +138,7 @@ status-website:
     - title: Status
       href: /
     - title: Game Repo
-      href: https://github.com/$OWNER/cmss13-devs
+      href: https://github.com/$OWNER/cmss13
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
