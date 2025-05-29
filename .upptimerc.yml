@@ -128,7 +128,6 @@ status-website:
   cname: status.cm-ss13.com
   # baseUrl: /your-repo-name
   logoUrl: https://cm-ss13.com/assets/logo.png
-  name: CM-SS13 Status
   theme: night
   navbar:
     - title: Main Page
