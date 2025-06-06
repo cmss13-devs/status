@@ -211,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-east",
     "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "79.51%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.02%",
+    "uptime": "97.95%",
+    "uptimeDay": "78.85%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "97.95%",
     "time": 125,
     "timeDay": 0,
     "timeWeek": 135,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-06-06": 294
+      "2025-06-06": 304
     }
   },
   {
@@ -230,9 +230,9 @@
     "url": "eu-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-west",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "86.27%",
+    "uptimeDay": "86.26%",
     "uptimeWeek": "98.04%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "98.67%",
