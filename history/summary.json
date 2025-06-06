@@ -173,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-west",
     "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.31%",
+    "uptimeDay": "82.95%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 57,
     "timeDay": 58,
     "timeWeek": 51,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-06-06": 217
+      "2025-06-06": 245
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "eu-e.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-east",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "90.40%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 125,
     "timeDay": 126,
     "timeWeek": 134,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-06-06": 114
+      "2025-06-06": 138
     }
   },
   {
@@ -230,19 +230,19 @@
     "url": "eu-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-west",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 157,
     "timeDay": 370,
     "timeWeek": 217,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-06-06": 77
+      "2025-06-06": 79
     }
   },
   {
@@ -268,9 +268,9 @@
     "url": "aus.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-aus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -279,7 +279,9 @@
     "timeWeek": 181,
     "timeMonth": 183,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-06": 0
+    }
   },
   {
     "name": "Relay - ASIA-SE",
