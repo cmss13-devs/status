@@ -152,28 +152,30 @@
     "url": "us-e.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-east",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 23,
     "timeDay": 17,
     "timeWeek": 30,
     "timeMonth": 23,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-06": 2
+    }
   },
   {
     "name": "Relay - US West",
     "url": "us-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-west",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
     "time": 57,
@@ -182,7 +184,7 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-06-06": 60
+      "2025-06-06": 61
     }
   },
   {
