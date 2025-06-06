@@ -172,19 +172,19 @@
     "url": "us-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-west",
-    "status": "up",
-    "uptime": "97.89%",
-    "uptimeDay": "78.26%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "78.20%",
     "uptimeWeek": "96.89%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "97.89%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
     "time": 59,
     "timeDay": 70,
     "timeWeek": 57,
     "timeMonth": 59,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2025-06-06": 312
+      "2025-06-06": 313
     }
   },
   {
