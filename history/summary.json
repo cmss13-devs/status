@@ -170,19 +170,19 @@
     "url": "us-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-west",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 57,
     "timeDay": 58,
     "timeWeek": 51,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-06-06": 33
+      "2025-06-06": 40
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "eu-e.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-east",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 125,
     "timeDay": 126,
     "timeWeek": 134,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-06-06": 20
+      "2025-06-06": 29
     }
   },
   {
