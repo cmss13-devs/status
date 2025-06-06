@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/raw-logs.cm-ss13.com.ico",
     "slug": "internal-raw-logs",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 274,
     "timeDay": 266,
     "timeWeek": 288,
@@ -210,19 +210,19 @@
     "url": "eu-e.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-east",
-    "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "80.93%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "status": "up",
+    "uptime": "98.10%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 125,
     "timeDay": 126,
     "timeWeek": 134,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-06-06": 274
+      "2025-06-06": 281
     }
   },
   {
@@ -230,19 +230,19 @@
     "url": "eu-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-west",
-    "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
     "time": 193,
     "timeDay": 483,
     "timeWeek": 282,
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-06-06": 174
+      "2025-06-06": 181
     }
   },
   {
