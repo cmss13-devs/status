@@ -232,19 +232,19 @@
     "url": "eu-w.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-eu-west",
-    "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.23%",
-    "time": 216,
-    "timeDay": 606,
-    "timeWeek": 338,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "70.10%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
+    "time": 245,
+    "timeDay": 660,
+    "timeWeek": 387,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-06-07": 215,
+      "2025-06-07": 223,
       "2025-06-06": 207
     }
   },
@@ -253,9 +253,9 @@
     "url": "uk.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -264,7 +264,9 @@
     "timeWeek": 103,
     "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-07": 0
+    }
   },
   {
     "name": "Relay - AUS",
