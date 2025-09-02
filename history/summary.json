@@ -209,19 +209,19 @@
     "url": "nyc.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-nyc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 35,
-    "timeDay": 48,
-    "timeWeek": 35,
-    "timeMonth": 34,
+    "timeDay": 60,
+    "timeWeek": 40,
+    "timeMonth": 35,
     "timeYear": 35,
     "dailyMinutesDown": {
-      "2025-09-02": 0
+      "2025-09-02": 27
     }
   },
   {
