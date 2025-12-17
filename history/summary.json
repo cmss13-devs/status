@@ -93,11 +93,11 @@
     "url": "https://raw-logs.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/raw-logs.cm-ss13.com.ico",
     "slug": "internal-raw-logs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.88%",
     "time": 425,
     "timeDay": 338,
@@ -105,6 +105,7 @@
     "timeMonth": 333,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2025-12-17": 0,
       "2025-11-18": 248,
       "2025-07-19": 71,
       "2025-05-28": 42
