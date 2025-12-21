@@ -35,6 +35,7 @@ sites:
     url: https://tgs.cm-ss13.com
   - name: Internal - Logs
     url: https://logs.cm-ss13.com
+    maxRedirects: 5
     expectedStatusCodes:
       - 200
       - 201
@@ -60,6 +61,7 @@ sites:
       - 405 # unsure why
   - name: Internal - Raw Logs
     url: https://raw-logs.cm-ss13.com
+    maxRedirects: 5
     expectedStatusCodes:
       - 200
       - 201
