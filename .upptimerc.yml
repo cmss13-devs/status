@@ -30,7 +30,7 @@ sites:
       - 400 # unsure why
       - 405 # unsure why
   - name: Internal - Authentication
-    url: https://auth.cm-ss13.com
+    url: https://login.cm-ss13.com
   - name: Internal - Game Management
     url: https://tgs.cm-ss13.com
   - name: Internal - Logs
