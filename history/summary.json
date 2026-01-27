@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.cm-ss13.com.ico",
     "slug": "internal-authentication",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "72.93%",
-    "uptimeYear": "96.54%",
+    "uptimeYear": "96.55%",
     "time": 287,
     "timeDay": 301,
     "timeWeek": 286,
@@ -183,18 +183,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cm-ss13.com.ico",
     "slug": "all-wiki",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.70%",
+    "uptimeDay": "41.71%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.70%",
     "time": 358,
     "timeDay": 154,
     "timeWeek": 289,
     "timeMonth": 237,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-01-27": 48,
+      "2026-01-27": 839,
       "2025-11-18": 148,
       "2025-07-19": 81
     }
@@ -352,9 +352,9 @@
     "url": "asia-se.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-asia-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -364,6 +364,7 @@
     "timeMonth": 192,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2025-06-06": 29
     }
   }
