@@ -33,7 +33,7 @@
     "uptime": "96.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.45%",
-    "uptimeMonth": "95.91%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "96.39%",
     "time": 283,
     "timeDay": 321,
@@ -228,9 +228,9 @@
     "url": "us-e.cm-ss13.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "relay-us-east",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -240,6 +240,7 @@
     "timeMonth": 39,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2026-02-06": 0,
       "2025-06-06": 35
     }
   },
